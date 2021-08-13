@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RssFeedReader
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.0.
@@ -25,3 +26,12 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+Group 2 mini project
+
+Notes: deployment:
+```npx angular-cli-ghpages --dir=dist/rss-feed-reader```
+or
+``` ng deploy --base-href=po-mini-project```
+I think last command is the one that is working, but more testing is needed
+>>>>>>> 7b174ab814aac07699ebb516c32204883cd9a6e6
